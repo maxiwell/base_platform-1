@@ -3,4 +3,4 @@
 	url = git@github.com:ArchC/SystemC.git
 [submodule "archc"]
 	path = archc
-	url = git@github.com:ArchC/ArchC.git
+	url = git@github.com:maxiwell/ArchC.git
