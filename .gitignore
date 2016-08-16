@@ -5,3 +5,4 @@
 *.mips
 *~
 install/
+env.sh
